@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistemas Bancarios - Proyecto ICT</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #1e90ff;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    section {
+      background: white;
+      margin: 20px auto;
+      padding: 20px;
+      max-width: 900px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2, h3 {
+      color: #1e90ff;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #1e90ff;
+      color: white;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sistemas Bancarios - 6.6.1 Aplicaciones Bancarias</h1>
+    <p>Proyecto ICT - Luciana García ✨</p>
+  </header>
+
+  <section>
+    <h2>🏧 Cajeros Automáticos (ATMs)</h2>
+    <h3>Ventajas</h3>
+    <ul>
+      <li>Disponibles las 24 horas</li>
+      <li>No es necesario ir al banco</li>
+      <li>Rápidos y cómodos</li>
+      <li>Reducen las filas en las sucursales</li>
+    </ul>
+    <h3>Desventajas</h3>
+    <ul>
+      <li>Pueden ser inseguros en algunos lugares</li>
+      <li>Riesgo de robo o clonación de tarjetas</li>
+      <li>Puede quedarse sin efectivo</li>
+      <li>Debes recordar tu PIN</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>💸 Transferencia Electrónica de Fondos (EFT)</h2>
+    <h3>Ventajas</h3>
+    <ul>
+      <li>Pagos instantáneos</li>
+      <li>No se necesita efectivo ni cheques</li>
+      <li>Más seguro</li>
+      <li>Útil para salarios o compras</li>
+    </ul>
+    <h3>Desventajas</h3>
+    <ul>
+      <li>No es fácil revertir un pago</li>
+      <li>Riesgo de fraude electrónico</li>
+      <li>Depende de sistemas electrónicos</li>
+      <li>Errores al digitar pueden causar problemas</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>💳 Transacciones con Tarjeta de Crédito y Débito</h2>
+    <h3>Crédito - Ventajas</h3>
+    <ul>
+      <li>Protección adicional</li>
+      <li>Permite pagar después</li>
+      <li>Aceptadas en muchos lugares</li>
+    </ul>
+    <h3>Crédito - Desventajas</h3>
+    <ul>
+      <li>Altos intereses si no se paga a tiempo</li>
+      <li>Posibilidad de endeudamiento</li>
+      <li>Riesgo de fraude si se pierde</li>
+    </ul>
+    <h3>Débito - Ventajas</h3>
+    <ul>
+      <li>Pagas con tu propio dinero</li>
+      <li>No hay intereses</li>
+      <li>Fácil control de gastos</li>
+    </ul>
+    <h3>Débito - Desventajas</h3>
+    <ul>
+      <li>Menos protección que el crédito</li>
+      <li>Si no hay fondos, no se puede usar</li>
+      <li>Riesgo si se pierde la tarjeta</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📝 Cheques</h2>
+    <h3>Ventajas</h3>
+    <ul>
+      <li>Útiles para pagos grandes</li>
+      <li>Seguros y con registro</li>
+      <li>Se pueden posfechar</li>
+    </ul>
+    <h3>Desventajas</h3>
+    <ul>
+      <li>Procesamiento lento</li>
+      <li>Pueden rebotar</li>
+      <li>Riesgo de pérdida o falsificación</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🏦 Compensación Centralizada de Cheques</h2>
+    <h3>Ventajas</h3>
+    <ul>
+      <li>Procesamiento más rápido</li>
+      <li>Menos errores</li>
+      <li>Mayor seguridad</li>
+    </ul>
+    <h3>Desventajas</h3>
+    <ul>
+      <li>Depende de sistemas electrónicos</li>
+      <li>Si falla el sistema, hay retrasos</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🌐 Banca por Internet</h2>
+    <h3>Ventajas</h3>
+    <ul>
+      <li>Acceso en cualquier momento y lugar</li>
+      <li>Rápida y cómoda</li>
+      <li>No hay filas</li>
+    </ul>
+    <h3>Desventajas</h3>
+    <ul>
+      <li>Riesgo de fraudes en línea</li>
+      <li>Se necesita conexión a Internet</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Luciana García — Proyecto ICT 💻</p>
+  </footer>
+
+</body>
+</html>
