@@ -1,166 +1,76 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sistemas Bancarios - Proyecto ICT</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-    }
-    header {
-      background-color: #1e90ff;
-      color: white;
-      padding: 20px 0;
-      text-align: center;
-    }
-    section {
-      background: white;
-      margin: 20px auto;
-      padding: 20px;
-      max-width: 900px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h1, h2, h3 {
-      color: #1e90ff;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    footer {
-      text-align: center;
-      padding: 10px;
-      background-color: #1e90ff;
-      color: white;
-      margin-top: 20px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>Banking systems</title>
 </head>
 <body>
 
-  <header>
-    <h1>Sistemas Bancarios - 6.6.1 Aplicaciones Bancarias</h1>
-    <p>Proyecto ICT - Luciana García ✨</p>
-  </header>
+    <h1>    Banking Systems</h1><br>
+    <h3>Responde las siguientes preguntas usando como referencia las imágenes del libro de ICT proporcionadas.</h3>
+    <p>Nombre del estudiante: Luciana Maria Garcia Torrado</p>
 
-  <section>
-    <h2>🏧 Cajeros Automáticos (ATMs)</h2>
-    <h3>Ventajas</h3>
+    <hr>
+    
+<h3>Pregunta 1</h3>
+    <p>Los Cajeros Automáticos (ATMs) son una de las aplicaciones bancarias más comunes.</p>
+    
+    <h4>a. Menciona las ventajas de usar cajeros automáticos (según el libro).</h4>
+    <p><em>(Escribe aquí tus respuestas)</em></p>
     <ul>
-      <li>Disponibles las 24 horas</li>
-      <li>No es necesario ir al banco</li>
-      <li>Rápidos y cómodos</li>
-      <li>Reducen las filas en las sucursales</li>
+        <li><b>Respuesta:</b> Es posible retirar efectivo a cualquier hora del día.</li>
+        <li><b>Respuesta:</b> Ofrecen muchos servicios bancarios sin necesidad de ir al banco (como extractos, consulta de saldos y pago de facturas), lo que ayuda a las personas a gestionar su dinero más fácilmente.</li>
+        <li><b>Respuesta:</b> Es posible acceder a una cuenta desde cualquier parte del mundo.</li>
+        <li><b>Respuesta:</b> Generalmente, proporcionan un servicio más rápido que esperar en una cola dentro del banco.</li>
     </ul>
-    <h3>Desventajas</h3>
-    <ul>
-      <li>Pueden ser inseguros en algunos lugares</li>
-      <li>Riesgo de robo o clonación de tarjetas</li>
-      <li>Puede quedarse sin efectivo</li>
-      <li>Debes recordar tu PIN</li>
-    </ul>
-  </section>
 
-  <section>
-    <h2>💸 Transferencia Electrónica de Fondos (EFT)</h2>
-    <h3>Ventajas</h3>
+    <h4>b. Menciona las desventajas de usar cajeros automáticos (según el libro).</h4>
+    <p><em>(Escribe aquí tus respuestas)</em></p>
     <ul>
-      <li>Pagos instantáneos</li>
-      <li>No se necesita efectivo ni cheques</li>
-      <li>Más seguro</li>
-      <li>Útil para salarios o compras</li>
+        <li><b>Respuesta:</b> A menudo están en lugares donde pueden ocurrir robos por la noche.</li>
+        <li><b>Respuesta:</b> Existe el potencial de estafas como el "shoulder-surfing" (mirar por encima del hombro) y la clonación de tarjetas.</li>
+        <li><b>Respuesta:</b> Algunos bancos cobran a los clientes por usar los cajeros automáticos.</li>
+        <li><b>Respuesta:</b> A menudo se imponen límites de retiro de efectivo.</li>
+        <li><b>Respuesta:</b> Si la tarjeta de débito está defectuosa, no se puede realizar ninguna transacción.</li>
+        <li><b>Respuesta:</b> Hay una pérdida del toque personal en el servicio.</li>
     </ul>
-    <h3>Desventajas</h3>
-    <ul>
-      <li>No es fácil revertir un pago</li>
-      <li>Riesgo de fraude electrónico</li>
-      <li>Depende de sistemas electrónicos</li>
-      <li>Errores al digitar pueden causar problemas</li>
-    </ul>
-  </section>
 
-  <section>
-    <h2>💳 Transacciones con Tarjeta de Crédito y Débito</h2>
-    <h3>Crédito - Ventajas</h3>
-    <ul>
-      <li>Protección adicional</li>
-      <li>Permite pagar después</li>
-      <li>Aceptadas en muchos lugares</li>
-    </ul>
-    <h3>Crédito - Desventajas</h3>
-    <ul>
-      <li>Altos intereses si no se paga a tiempo</li>
-      <li>Posibilidad de endeudamiento</li>
-      <li>Riesgo de fraude si se pierde</li>
-    </ul>
-    <h3>Débito - Ventajas</h3>
-    <ul>
-      <li>Pagas con tu propio dinero</li>
-      <li>No hay intereses</li>
-      <li>Fácil control de gastos</li>
-    </ul>
-    <h3>Débito - Desventajas</h3>
-    <ul>
-      <li>Menos protección que el crédito</li>
-      <li>Si no hay fondos, no se puede usar</li>
-      <li>Riesgo si se pierde la tarjeta</li>
-    </ul>
-  </section>
+    <hr>
 
-  <section>
-    <h2>📝 Cheques</h2>
-    <h3>Ventajas</h3>
-    <ul>
-      <li>Útiles para pagos grandes</li>
-      <li>Seguros y con registro</li>
-      <li>Se pueden posfechar</li>
-    </ul>
-    <h3>Desventajas</h3>
-    <ul>
-      <li>Procesamiento lento</li>
-      <li>Pueden rebotar</li>
-      <li>Riesgo de pérdida o falsificación</li>
-    </ul>
-  </section>
+    <h3>Pregunta 2</h3>
+    <p>La Transferencia Electrónica de Fondos (EFT) es un sistema que permite enviar instrucciones de transferencia de dinero directamente al sistema informático de un banco.</p>
 
-  <section>
-    <h2>🏦 Compensación Centralizada de Cheques</h2>
-    <h3>Ventajas</h3>
+    <h4>a. Menciona las ventajas de la EFT.</h4>
+    <p><em>(Escribe aquí tus respuestas)</em></p>
     <ul>
-      <li>Procesamiento más rápido</li>
-      <li>Menos errores</li>
-      <li>Mayor seguridad</li>
+        <li><b>Respuesta:</b> Es un método de pago muy seguro.</li>
+        <li><b>Respuesta:</b> Es un método de pago muy rápido.</li>
+        <li><b>Respuesta:</b> Es menos costoso que, por ejemplo, usar cheques.</li>
+        <li><b>Respuesta:</b> El cliente tiene el derecho de disputar un pago de EFT por hasta 60 días.</li>
     </ul>
-    <h3>Desventajas</h3>
-    <ul>
-      <li>Depende de sistemas electrónicos</li>
-      <li>Si falla el sistema, hay retrasos</li>
-    </ul>
-  </section>
 
-  <section>
-    <h2>🌐 Banca por Internet</h2>
-    <h3>Ventajas</h3>
+    <h4>b. Menciona las desventajas de la EFT.</h4>
+    <p><em>(Escribe aquí tus respuestas)</em></p>
     <ul>
-      <li>Acceso en cualquier momento y lugar</li>
-      <li>Rápida y cómoda</li>
-      <li>No hay filas</li>
+        <li><b>Respuesta:</b> Una vez que se ha transferido un monto, el banco no puede revertir la transacción (requiere una investigación de disputa).</li>
+        <li><b>Respuesta:</b> El cliente necesita tener los fondos disponibles de inmediato (a diferencia de un cheque).</li>
+        <li><b>Respuesta:</b> No puede garantizar al destinatario (alguien con una identificación falsa podría cobrar el dinero).</li>
     </ul>
-    <h3>Desventajas</h3>
-    <ul>
-      <li>Riesgo de fraudes en línea</li>
-      <li>Se necesita conexión a Internet</li>
-    </ul>
-  </section>
+    
+    <hr>
 
-  <footer>
-    <p>© 2025 Luciana García — Proyecto ICT 💻</p>
-  </footer>
+    <h3>Pregunta 3</h3>
+    <p>El libro también describe otros procesos de transacciones bancarias.</p>
+
+    <h4>a. Describe cómo funciona una transacción con tarjeta de crédito/débito (Chip y PIN) según el texto.</h4>
+    <p><em>(Escribe aquí tu descripción)</em></p>
+    <p><b>Respuesta:</b> Primero, se introduce el PIN y se compara con el PIN guardado en el chip de la tarjeta. Si es correcto, el banco del comercio contacta al banco del cliente. El banco del cliente comprueba si la tarjeta es válida y si hay fondos suficientes. Si todo está en orden, la transacción se autoriza, el dinero se deduce de la cuenta del cliente y se abona en la cuenta del comercio. Finalmente, se imprime un recibo.</b></p>
+
+    <h4>b. Describe cómo funciona el proceso de compensación centralizada de cheques.</h4>
+    <p><em>(Escribe aquí tu descripción)</em></p>
+    <p><b>Respuesta:</b> Cuando se deposita un cheque, el banco toma una imagen electrónica del mismo. Un software de OCR convierte esa imagen en datos electrónicos. El banco envía estos archivos (imagen y datos) a una instalación central. Esta instalación envía una 'solicitud de pago' al banco de la persona que escribió el cheque. El banco del pagador responde si 'paga' (si hay fondos) o 'no paga' (si no hay fondos, etc.). Esta respuesta se envía de vuelta al banco original, y todo el proceso tarda menos de 24 horas.</b></p>
+
+    <hr>
 
 </body>
 </html>
